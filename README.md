@@ -2,4 +2,4 @@
 
 Here is our first course:
 
-[Click me](http://www.google.com){: .btn}
+[button url="http://www.google.com"]
