@@ -4,7 +4,7 @@
 ### Deep Learning Crash Course: 
 This course will give you an outline of python and deeplearning. This course goes through some of the key concepts of deep learning in detail. please click below to check the course further. 
 
-[<img alt="alt_text" width="200px" src="./images/DeepLearning.png" />](https://mlshots.live/Deep-Learning-Course/)
+[<img alt="alt_text" width="200px" src="DeepLearning.png" />](https://mlshots.live/Deep-Learning-Course/)
 
 
 
