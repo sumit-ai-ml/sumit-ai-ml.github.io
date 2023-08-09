@@ -7,7 +7,5 @@ This course will give you an outline of python and deeplearning. This course goe
 
 
 
-<iframe width="420" height="315"
-src="https://www.youtube.com/embed/tgbNymZ7vqY?playlist=tgbNymZ7vqY&loop=1">
-</iframe>
+
 
