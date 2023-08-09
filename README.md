@@ -7,7 +7,7 @@ This course will give you an outline of python and deeplearning. This course goe
 
 
 
-{% include youtubePlayer.html id = "cC97PDZCpZg" %}
+{% include youtubePlayer.html id = "yjemkykX3js" %}
 
 
 
