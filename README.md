@@ -6,7 +6,6 @@ This course will give you an outline of python and deeplearning. This course goe
 [<img align="center" img alt="alt_text" width="250px" src="DeepLearning.png" />](https://mlshots.live/Deep-Learning-Course/)
 
 
-[![Alt text](https://img.youtube.com/vi/MeucgcgAgRc/0.jpg)](https://www.youtube.com/watch?v=MeucgcgAgRc)
 
 
 
