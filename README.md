@@ -9,5 +9,3 @@ This course will give you an outline of python and deeplearning. This course goe
 
 
 
-Uploading Screen Recording 2023-06-21 at 9.54.08 PM.mov…
-
