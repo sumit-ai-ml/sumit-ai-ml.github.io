@@ -3,8 +3,9 @@
 ## Deep Learning Crash Course: 
 This course will give you an outline of python and deeplearning. This course goes through some of the key concepts of deep learning in detail. please click below to check the course further. 
 
-[<img align="center" img alt="alt_text" width="250px" src="DeepLearning.png" />](https://mlshots.live/Deep-Learning-Course/)
+[<img align="center" img alt="alt_text" width="250px" src="images/1.png" />](https://mlshots.live/Deep-Learning-Course/)
 
+![4](https://github.com/sumit-ai-ml/sumit-ai-ml.github.io/assets/104621246/00641745-0321-467c-a0f6-185c45af8678)
 
 
 {% include youtubePlayer.html id = "yjemkykX3js" %}
