@@ -6,8 +6,8 @@
 Please click below icons to find more about the Web-apps, Tutorials, and Incoming Conferences:
 
 [<img alt="Image 1" width="250px" src="1.png" />](https://mlshots.live/Deep-Learning-Course/)
-[<img alt="Image 2" width="250px" src="2.png" />](https://mlshots.live/Deep-Learning-Course/)
-[<img alt="Image 3" width="250px" src="3.png" />](https://mlshots.live/Deep-Learning-Course/)
+[<img alt="Image 2" width="250px" src="2.png" />](https://mlshots.live/Tutorial/)
+[<img alt="Image 3" width="250px" src="3.png" />](https://sites.google.com/view/ml-shots/ai-conferences)
 
 
 
