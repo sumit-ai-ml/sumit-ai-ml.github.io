@@ -5,7 +5,7 @@ This course will give you an outline of python and deeplearning. This course goe
 
 [<img align="center" img alt="alt_text" width="250px" src="images/1.png" />](https://mlshots.live/Deep-Learning-Course/)
 
-![4](https://github.com/sumit-ai-ml/sumit-ai-ml.github.io/assets/104621246/00641745-0321-467c-a0f6-185c45af8678)
+
 
 
 {% include youtubePlayer.html id = "yjemkykX3js" %}
