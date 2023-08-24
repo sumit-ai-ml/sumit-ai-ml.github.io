@@ -2,6 +2,7 @@
 <strong> I am embarking on a captivating adventure to create impactful machine learning models that address real-life challenges. This page serves as a milestone in my journey, where I intend to divulge comprehensive insights into my YouTube videos and coding exercises.</strong>
 </div>
 
+
 Please click below icons to find more about the Web-apps, Tutorials, and Incoming Conferences
 
 [<img alt="Image 1" width="300px" src="1.png" />](https://mlshots.live/Deep-Learning-Course/)
