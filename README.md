@@ -17,6 +17,7 @@ Please click below icons to find more about the Web-apps, Tutorials, and Incomin
 
 ----------------------
 
-# Deep Learninng Courses
-
+# AI Courses:
+## Introduction to AI and Deep Learning. [click here]() 
+## Advance Course on Deep Learning. [click here]()
 
