@@ -18,6 +18,6 @@ Please click below icons to find more about the Web-apps, Tutorials, and Incomin
 ----------------------
 
 # AI Courses:
-## Introduction to AI and Deep Learning. [click here]() 
-## Advance Course on Deep Learning. [click here]()
+## Introduction to AI and Deep Learning. [[click here](https://mlshots.live/Deep-Learning-Course/)]() 
+## Advance Course on Deep Learning. [coming soon]()
 
