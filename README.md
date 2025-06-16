@@ -6,7 +6,6 @@
 <p align='center'>
   <a href='mailto:supa@di.ku.dk'><img src='https://img.shields.io/badge/Email-supa@di.ku.dk-red'/></a>
   <a href='https://www.linkedin.com/in/sumit-pandey-ai'><img src='https://img.shields.io/badge/LinkedIn-Sumit_Pandey-blue?logo=linkedin'/></a>
-  <a href='https://github.com/sumit-ai-ml'><img src='https://komarev.com/ghpvc/?username=sumit-ai-ml&style=flat&color=blue' alt='Profile views'/></a>
 </p>
 
 ---
