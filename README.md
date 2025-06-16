@@ -1,67 +1,77 @@
-<!-- README.md -->
+# Sumit Pandey | Machine Learning & Medical AI
 
-<h1 align='center'>Hi, I'm Sumit Pandey 👋</h1>
-<h3 align='center'>Machine-Learning & Medical-AI Researcher&nbsp;| PhD Fellow @ University of Copenhagen</h3>
-
-<p align='center'>
-  <a href='mailto:supa@di.ku.dk'><img src='https://img.shields.io/badge/Email-supa@di.ku.dk-red'/></a>
-  <a href='https://www.linkedin.com/in/sumit-pandey-ai'><img src='https://img.shields.io/badge/LinkedIn-Sumit_Pandey-blue?logo=linkedin'/></a>
-</p>
+Portfolio, research, and code from a PhD researcher and AI developer
 
 ---
 
-### 🧑‍💻 About Me
-- 📚 Freshly minted **PhD in Machine Learning** from the *University of Copenhagen* (Deep Consciousness project → AUROC 0.82 on outcome prediction for coma patients).  
-- 🧑‍🔬 **Visiting Researcher** at Harvard Medical School, building 3-D medical-image pipelines (MED-YOLO-SAM-3D).  
-- 🚀 Obsessed with turning cutting-edge AI into **clinically useful** and **business-impacting** products.  
-- 🤝 Collaborative, interdisciplinary mindset; love mentoring the next wave of ML talent.
+## 👋 Hi, I'm Sumit Pandey
 
-### 🛠️ Tech Stack & Tooling
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21F?style=flat&logo=huggingface&logoColor=black)
-![Ultralytics YOLO](https://img.shields.io/badge/-Ultralytics_YOLO-31A8FF?style=flat)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=postgresql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat&logo=mathworks&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**Machine Learning & Medical AI Researcher**  
+PhD, University of Copenhagen | Visiting Researcher, Harvard Medical School
 
-> **Research Interests:** Medical Image Analysis · Computer Vision · Deep Learning · Foundation Models · LLM Fine-tuning · Survival Analysis
+[Email Me](mailto:supa@di.ku.dk) · [LinkedIn](https://www.linkedin.com/in/sumit-pandey-ai) · [GitHub](https://github.com/sumit-ai-ml)
 
-### 🔬 Highlight Projects
-| Project | Brief | Core Tech |
-|---------|-------|-----------|
-| **Deep Consciousness** | Predicting coma-patient outcomes from serial CT scans (**AUROC 0.82**) | PyTorch · 3-D CNNs · Survival Analysis |
-| **MED-YOLO-SAM-3D** | End-to-end 2-D/3-D segmentation pipeline; checkpoints trained on **millions** of CT/MRI slices | YOLO-v8 · SAM · Torch-IO |
-| **A-MPUNET** | Attention Multi-Planar UNet for sparse 3-D data (top performer in KiTS23 challenge) | PyTorch · UNet · Attention |
-| **POCUS Aorta Segmentation** | YOLO-based foundation model for point-of-care ultrasound | Ultralytics YOLO · OpenCV |
-| **Complaint-Analysis GPT-4.1** | Fine-tuned LLM that cut ticket processing from **days to minutes** for a shipping client | OpenAI API · LangChain |
+---
+
+### 🚀 What I Do
+
+- **🧠 Deep Learning for Medicine:**  
+  Predicting clinical outcomes from CT scans, designing segmentation algorithms, and building robust AI pipelines for real hospitals.
+
+- **🛠️ AI Products That Matter:**  
+  Turn research into scalable, impactful tools (see: Med-YOLO, 3D-SAM, GPT complaint analysis).
+
+- **🤝 Interdisciplinary Collaboration:**  
+  Bridge engineering, research, and healthcare—plus mentor teams on AI best practices.
+
+---
+
+### 🛠️ Tech Stack
+
+| Python | PyTorch | TensorFlow | YOLO | Hugging Face | SQL | Docker | Streamlit |
+|--------|---------|------------|------|--------------|-----|--------|-----------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) | ![YOLO](https://img.shields.io/badge/YOLO-31A8FF) | ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black) | ![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white) |
+
+---
+
+### 🏆 Highlight Projects
+
+**Deep Consciousness**  
+`AI for coma prognosis | AUROC: 0.82 | PyTorch, CNN, Survival Analysis`
+
+**Med-YOLO & SAM-3D**  
+`Scalable 2D/3D segmentation for medical imaging`
+
+**Complaint Analysis with GPT-4.1**  
+`Automated ticket classification & summarization | Reduced processing time from days to minutes`
+
+---
 
 ### 📑 Selected Publications
-- **Pandey, S.** *et al.* (2024) *Validating YOLOv8 & SAM for Robust POCUS Aorta Segmentation* ⟨pre-print⟩  
-- **Pandey, S.** *et al.* (2023) *Multi-Planar U-Net for Kidney/Tumor Segmentation* (ICCV’23 WS)  
-- Lin, Y-C., **Pandey, S.** *et al.* (2023) *Fully Automated Hypopharyngeal-Cancer MRI Segmentation* (European Radiology)
+
+- *Validating YOLOv8 & SAM for Robust POCUS Aorta Segmentation*, Pandey et al., 2024 (pre-print)
+- *Multi-Planar U-Net for Kidney/Tumor Segmentation*, ICCV’23 WS
+- *Fully Automated Hypopharyngeal-Cancer MRI Segmentation*, European Radiology
+
+---
 
 ### 🎓 Education
-- **PhD, Computer Science** – University of Copenhagen (2022-2025)  
-  *Thesis:* Towards Deep Consciousness  
-- **M.S., Electronic Engineering** – Chang Gung University (2018-2020) • GPA 3.78/4.0  
 
-### 🏆 Awards & Honors
-- PhD Fellowship – University of Copenhagen  
-- Graduate Scholarship – Chang Gung University  
+- **PhD, Computer Science** — University of Copenhagen  
+- **MS, Electronic Engineering** — Chang Gung University
+
+---
 
 ### 🌐 Let’s Connect
-```bash
-📬 supa@di.ku.dk
-🔗 https://www.linkedin.com/in/sumit-pandey-ai
-🐙 https://github.com/sumit-ai-ml
 
+- Email: [supa@di.ku.dk](mailto:supa@di.ku.dk)
+- LinkedIn: [Sumit Pandey](https://www.linkedin.com/in/sumit-pandey-ai)
+- GitHub: [sumit-ai-ml](https://github.com/sumit-ai-ml)
 
+---
 
+<div align="center">
 
-{% include youtubePlayer.html id = "iuzXnb44b2o" %}
+💬 *Open for collaborations, speaking, and new challenges in AI & healthcare!*
 
-
-
+</div>
