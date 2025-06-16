@@ -1,7 +1,7 @@
 remote_theme: mmistakes/minimal-mistakes
 author:
   name: "Sumit Pandey"
-  avatar: /assets/images/profile.jpg
+  avatar: /assets/images/profile.png
   bio: "AI Scientist | PhD, University of Copenhagen | Ex-Harvard Med School"
   links:
     - label: "Email"
