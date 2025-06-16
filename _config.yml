@@ -1,1 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
+title: "Sumit Pandey | Machine Learning & Medical AI"
+description: "Portfolio, research, and code from a PhD researcher and AI developer"
+plugins:
+  - jekyll-include-cache
